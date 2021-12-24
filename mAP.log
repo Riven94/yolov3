@@ -1,0 +1,14 @@
+Total BFLOPS 65.297
+Allocate addi tional workspace_ size =52. 43 MB
+Loading weights from weights_ result lyo1ov3-voc_ final. weights. . .
+seen 64 
+Done !
+calculation mAP (mean average precision).. .
+136
+detections count = 167，unique_ truth, count = 134
+for thresh = 0. 25，precision =0. 94，recall = 0. 97，F1-score=0. 95
+for thresh = 0.25，TP = 130,FP = 9，FN = 4,averageIoU = 80.16%
+IoU threshold = 50%，used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0. 988506，or 98.85 %
+Total Detection Time: 3.000000 Seconds 
+

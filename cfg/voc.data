@@ -1,0 +1,6 @@
+classes= 6
+train  = /home/tzh/darknet/train.txt
+valid  = /home/tzh/darknet/2007_test.txt
+names = /home/tzh/darknet/data/voc.names
+backup = /home/tzh/darknet/backup_new
+

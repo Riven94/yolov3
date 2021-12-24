@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>British_Shorthair_41.jpg</filename>
+	<path>/home/tzh/cats/British_Shorthair_41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>british_shorthair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>103</ymin>
+			<xmax>374</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
